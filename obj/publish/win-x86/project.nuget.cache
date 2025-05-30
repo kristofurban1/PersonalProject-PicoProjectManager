@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wZu5rl1sK0yvJtxreK/vJ52ECNzvXFMPWpMEOlWFuy/xa8/55lqgP8czdGKDQofd5/S/k+fhP0BpSix0ToWtA==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\VisualStudioProjects\\Projects\\PicoProjects\\PicoProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Turby\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.0\\microsoft.netcore.app.runtime.win-x86.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x86.6.0.0.nupkg.sha512",
+    "C:\\Users\\Turby\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.0\\microsoft.netcore.app.crossgen2.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

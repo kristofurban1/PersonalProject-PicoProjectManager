@@ -1,0 +1,16 @@
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\PicoProjects.exe
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\PicoProjects.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\PicoProjects.deps.json
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\PicoProjects.runtimeconfig.json
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\PicoProjects.pdb
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\Microsoft.Win32.SystemEvents.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\System.Configuration.ConfigurationManager.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\System.Drawing.Common.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\System.Security.Permissions.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\System.Windows.Extensions.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

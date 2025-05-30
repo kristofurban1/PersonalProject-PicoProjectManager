@@ -1,0 +1,2 @@
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\win-x86\PicoProjects.pdb
+D:\Personal\VisualStudioProjects\Projects\PicoProjects\bin\Release\net6.0\publish\win-x86\PicoProjects.exe
